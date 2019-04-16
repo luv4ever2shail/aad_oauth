@@ -1,4 +1,4 @@
-# Azure Active Directory OAuth
+# SharePoint OAuth
 
 A Flutter OAuth package for performing user authentication against Azure Active Directory OAuth2 v2.0 endpoint. Forked from [hitherejoe.FlutterOAuth](https://github.com/hitherejoe/FlutterOAuth).
 
